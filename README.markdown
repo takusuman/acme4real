@@ -39,7 +39,7 @@ library.
 
 ### Screenshots (Pandoc port)
 
-|![img/2022-05-04_21.25.16__03b2ca6e3a2a.png](img/2022-05-04_21.25.16__03b2ca6e3a2a.png)|
+|![img/2022-05-04_21.25.16__03b2ca6e3a2a.jpg](img/2022-05-04_21.25.16__03b2ca6e3a2a.jpg)|
 |:--:|
 |*A Shell script snippet, in a HTML documment rendered via Vivaldi 5.2.2623.41
 stable; the text is in Portuguese, with UTF-8 support.*|
